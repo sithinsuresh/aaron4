@@ -1,2 +1,26 @@
-hello aaron
+$ pwd
+$ mkdir devops
+$ cd devops
+devops $ git –version
+devops $ git –help
+devops $ git cofig –global user.name “RKDevOps12”
+devops $ git cofig –global user.email ramkrishnak24@gmail.com
+devops $ git cofig –list
+devops $ git init
+$ touch master.txt
+$ notepad master.txt
+$ git status
+$ git add .
+$ git status
+$ git commit –m “This is my first Git commit”
+$ git status
+$ git log
+Login to Github
+Click New repository
+Give name devops
+$ git remote add origin <add link>  (To add local repository to Server)
+$ git remote –v (to check if it is added correctly)
+$ git push –u origin master  
+Github login page will be opened
+
 
