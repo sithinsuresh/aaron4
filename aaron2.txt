@@ -22,3 +22,28 @@ $ git remote add origin <add link>  (To add local repository to Server)
 $ git remote –v (to check if it is added correctly)
 $ git push –u origin master  
 Github login page will be opened
+
+
+Create a Repo as Calculator
+Include files ADD and Sub in it
+Git clone <github link>
+Git status
+Git log
+Git branch multiply
+Git branch
+Git checkout multiply
+Create mult file in calculator repo
+Git add mult.cs
+Git commit –m “new file added”
+Git checkout master
+Git checkout multiply
+ Git checkout master
+Git branch issue01
+Git branch
+Git checkout issue01
+Go to subtract file , do some corrections
+Git add “subtract.cs”
+Git commit –m “Issue fixed”
+Git diff master issue01
+To merge: $ git checkout master,    $git merge issue01    Git diff master issue01  ( You will see no differences now)
+
